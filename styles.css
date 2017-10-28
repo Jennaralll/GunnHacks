@@ -1,13 +1,19 @@
-h1, p, input, .form, .Submit, .reset, a, ul{
+h1, input, .form, .Submit, .reset, a, ul{
     font-family: "Century Gothic", Helvetica, sans-serif;
     color:rgb(255, 255, 255);
 }
 
+p{
+    font-family: "Comic Sans MS", Helvetica, sans-serif;
+    color: rgb(255, 255, 255);
+}
+
 header {
     border: inset #e8c481;
-    background-image: url(logo.png);
-    padding: 25px;
-    height: 100%;
+    background-image: url(studybg2.jpg);
+    padding: 35px;
+    height: 40px;
+    font-size: 40px;
     background-position: center;
     background-repeat: no-repeat;
     background-size: cover;
@@ -110,7 +116,7 @@ ul {
     color:rgb(183, 45, 128);
 }
 
-
+<<<<<<< HEAD
 a.button {
     -webkit-appearance: button;
     -moz-appearance: button;
@@ -118,11 +124,7 @@ a.button {
 
     text-decoration: none;
     color: initial;
-<<<<<<< HEAD
     margin-top: 125px;
-=======
-
->>>>>>> d0ea4ed48dc0cf8ab9ca093b7eed77083e17e09f
 button {
     cursor: pointer;
 }
