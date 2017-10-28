@@ -94,7 +94,7 @@ ul {
     color:rgb(183, 45, 128);
 }
 
-<<<<<<< HEAD
+
 a.button {
     -webkit-appearance: button;
     -moz-appearance: button;
@@ -102,8 +102,7 @@ a.button {
 
     text-decoration: none;
     color: initial;
-=======
+
 button {
     cursor: pointer;
->>>>>>> d42f63c80b5f06d995ab2debc836ae90e6a55354
 }
