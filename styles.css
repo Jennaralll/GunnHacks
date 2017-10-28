@@ -86,3 +86,6 @@ ul {
     color:rgb(183, 45, 128);
 }
 
+button {
+    cursor: pointer;
+}
