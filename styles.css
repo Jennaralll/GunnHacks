@@ -3,6 +3,22 @@ h1, p, input, .form, .Submit, .reset, a, ul{
     color:rgb(255, 255, 255);
 }
 
+header {
+    border: inset #e8c481;
+    background-image: url(logo.png);
+    padding: 25px;
+    height: 100%;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    color: white;
+}
+
+input {
+    color:rgb(0, 0, 0);
+}
+
+}
 img {
     width: 170px;
 }
@@ -42,7 +58,7 @@ body {
 
 .button {
     font-family: "Century Gothic", Helvetica, sans-serif;
-    background-color: rgb(102, 153, 153);
+    background-color: rgb(232, 196, 129);
     border: none;
     border-radius: 20px;
     color: white;
@@ -54,7 +70,7 @@ body {
 }
 
 .make {
-    background-color: rgb(12, 153, 153);
+    background-color: rgb(232, 196, 129);
 }
 
 .button:hover {
@@ -68,11 +84,11 @@ body {
     animation: fader 2s infinite  alternate;
 }
 @-webkit-keyframes fader {
-0%,100% { opacity: 0.5 }
+0%,100% { opacity: 0.7 }
   50% { opacity: 1 }
 }
 @keyframes fader {
-0%,100% { opacity: 0.5 }
+0%,100% { opacity: 0.7 }
   50% { opacity: 1 }
 }
 
@@ -102,7 +118,7 @@ a.button {
 
     text-decoration: none;
     color: initial;
-=======
+    margin-top: 125px;
 button {
     cursor: pointer;
 >>>>>>> d42f63c80b5f06d995ab2debc836ae90e6a55354
