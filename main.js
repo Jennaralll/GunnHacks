@@ -9,7 +9,7 @@ let reset = document.querySelector('.reset');
 //Button Selectors
 let make = document.querySelector('.make');
 let schedule = document.querySelector('.schedule');
-let start = document.querySelector('.start');
+//let start = document.querySelector('.start');
 
 
 //These are the variables to keep the loop going when you're entering stuff

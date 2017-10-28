@@ -17,6 +17,7 @@ a:hover {
 
 body {
     text-align: center;
+    background-image: url(bg.jpg);
 }
 
 .enter {
